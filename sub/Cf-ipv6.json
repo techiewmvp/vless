@@ -1,52 +1,52 @@
 [
   {
     "colo": "Default",
-    "ip": "2606:4700:22f4:670a:3065:484e:abcd:f765",
+    "ip": "2a06:98c2:9fa7:c277:3cc:88b0:880b:6b23",
     "latency": 0,
     "line": "CF",
     "loss": 0,
     "node": "Diana",
     "speed": 0,
-    "time": "2026-09-09 13:57:14"
+    "time": "2026-09-10 13:48:08"
   },
   {
     "colo": "Default",
-    "ip": "2405:b500:3b85:a92e:2b26:9697:3c01:4394",
+    "ip": "2803:f800:fd95:f7d9:c7f7:1af8:bea4:a19b",
     "latency": 0,
     "line": "CF",
     "loss": 0,
     "node": "Diana",
     "speed": 0,
-    "time": "2026-09-09 13:57:14"
+    "time": "2026-09-10 13:48:08"
   },
   {
     "colo": "Default",
-    "ip": "2606:4700:8b8:ce9e:a5e1:38:107d:9909",
+    "ip": "2a06:98c1:c0c0:6560:4c1b:5ba0:f69e:d389",
     "latency": 0,
     "line": "CF",
     "loss": 0,
     "node": "Diana",
     "speed": 0,
-    "time": "2026-09-09 13:57:14"
+    "time": "2026-09-10 13:48:08"
   },
   {
     "colo": "Default",
-    "ip": "2405:8100:9b52:d00b:e467:8ad1:e3ab:cab4",
+    "ip": "2405:b500:f9a:cc38:5f79:edd9:93da:e542",
     "latency": 0,
     "line": "CF",
     "loss": 0,
     "node": "Diana",
     "speed": 0,
-    "time": "2026-09-09 13:57:14"
+    "time": "2026-09-10 13:48:08"
   },
   {
     "colo": "Default",
-    "ip": "2606:4700:2ded:dc96:1c90:1bc9:9423:4cea",
+    "ip": "2c0f:f248:34df:c548:163a:7d6c:804f:c3f5",
     "latency": 0,
     "line": "CF",
     "loss": 0,
     "node": "Diana",
     "speed": 0,
-    "time": "2026-09-09 13:57:14"
+    "time": "2026-09-10 13:48:08"
   }
 ]
