@@ -2,5 +2,5 @@
 //profile-update-interval: 10
 //subscription-userinfo: upload = 800306368000; download = 2576980377600; total = 6012954214400; expire = 1794182399
 //profile-web-page-url: https://github.com/NiREvil/vless
-//last update on: Sun, 12:02:32
-warp://A1@8.6.112.49:1387#🇮🇷Iran -> warp://A2@188.114.97.16:7156?ifp=1-2&ifpm=m5#🇪🇺Europe
+//last update on: Mon, 14:05:43
+warp://A1@188.114.97.90:7103#🇮🇷Iran -> warp://A2@8.6.112.170:2408?ifp=1-2&ifpm=m5#🇪🇺Europe
